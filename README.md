@@ -27,6 +27,7 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 ![](http://g.recordit.co/XpBuNPu4t7.gif)
+<img src='http://g.recordit.co/XpBuNPu4t7.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 # Parstagram - Part I
